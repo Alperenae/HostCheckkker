@@ -1,5 +1,5 @@
 import requests
-# This Is a Basic http request Script. :)
+# This Is a Basic http/https request Script. :)
 url = input("Enter The Url: ")
 if url == "" :
     print("-----------------")
