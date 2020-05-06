@@ -1,6 +1,4 @@
 # HostCheckkker
 #!\bin\python3
-
-Basic Http/Https Request Script
-
-Usage: python3 -u {TARGET} | --url {TARGET} 
+Basic Host Checkker 
+Usage: python3 -u {http/https://target.com} | --url {http/https://target.com} 
