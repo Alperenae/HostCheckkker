@@ -1,6 +1,6 @@
 # HostCheckkker
-#!\bin\python3
+`#!\bin\python3`
 
-Basic Host Checkker 
+<h3>Basic Host Checker</h3> 
 
-Usage: python3 -u {http/https://target.com} | --url {http/https://target.com}
+Usage: `python3 -u {http/https://target.com} | --url {http/https://target.com}`
